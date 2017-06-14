@@ -1,0 +1,85 @@
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\Tests.dll
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\Tests.pdb
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\nunit.framework.dll
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\StudentsList.dll
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.Razor.dll
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\StudentsList.pdb
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\nunit.framework.xml
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.Razor.xml
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\obj\Debug\Tests.dll
+c:\users\vladyslava_kurbanova\documents\visual studio 2013\Projects\StudentsList\Tests\obj\Debug\Tests.pdb
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\obj\Debug\Tests.dll
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\obj\Debug\Tests.pdb
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\Tests.dll
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\Tests.pdb
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\nunit.framework.dll
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\StudentsList.dll
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\StudentsList.pdb
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\nunit.framework.xml
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Vladyslava_Kurbanova\Desktop\StudentsList\Tests\bin\Debug\System.Web.WebPages.Razor.xml
+R:\VSprojects\StudentsList\Tests\bin\Debug\Tests.dll
+R:\VSprojects\StudentsList\Tests\bin\Debug\Tests.pdb
+R:\VSprojects\StudentsList\Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+R:\VSprojects\StudentsList\Tests\bin\Debug\nunit.framework.dll
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.Helpers.dll
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.Mvc.dll
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.Razor.dll
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.WebPages.dll
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.WebPages.Razor.dll
+R:\VSprojects\StudentsList\Tests\bin\Debug\nunit.framework.xml
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.Helpers.xml
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.Mvc.xml
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.Razor.xml
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.WebPages.xml
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+R:\VSprojects\StudentsList\Tests\bin\Debug\System.Web.WebPages.Razor.xml
+R:\VSprojects\StudentsList\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+R:\VSprojects\StudentsList\Tests\obj\Debug\Tests.dll
+R:\VSprojects\StudentsList\Tests\obj\Debug\Tests.pdb
+R:\VSprojects\StudentsList\Tests\dir2\Tests.dll
+R:\VSprojects\StudentsList\Tests\dir2\Tests.pdb
+R:\VSprojects\StudentsList\Tests\dir2\DirList.dll
+R:\VSprojects\StudentsList\Tests\dir2\Microsoft.Web.Infrastructure.dll
+R:\VSprojects\StudentsList\Tests\dir2\nunit.framework.dll
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.Helpers.dll
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.Mvc.dll
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.Razor.dll
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.WebPages.Deployment.dll
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.WebPages.dll
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.WebPages.Razor.dll
+R:\VSprojects\StudentsList\Tests\dir2\DirList.pdb
+R:\VSprojects\StudentsList\Tests\dir2\nunit.framework.xml
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.Helpers.xml
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.Mvc.xml
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.Razor.xml
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.WebPages.xml
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.WebPages.Deployment.xml
+R:\VSprojects\StudentsList\Tests\dir2\System.Web.WebPages.Razor.xml
+R:\VSprojects\StudentsList\Tests\bin\Debug\DirList.dll
+R:\VSprojects\StudentsList\Tests\bin\Debug\DirList.pdb

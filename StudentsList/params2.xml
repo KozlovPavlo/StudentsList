@@ -1,0 +1,5 @@
+<parameters>
+  <parameter name="MyTestParam" description="My Test Param" defaultValue="&lt;book name='book3' /&gt;">
+    <parameterEntry kind="XmlFile" scope="books\.xml" match="//book[@name='book1']" />
+  </parameter>
+</parameters>

@@ -1,0 +1,5 @@
+<parameters>
+    <parameter name="MyTestParam" description="My Test Param" defaultvalue="555-555">
+    <parameterEntry kind="XmlFile" scope="\\App_Data\\StudentsList.xml" match="//Student/Phone/text()" />
+  </parameter>
+</parameters>
