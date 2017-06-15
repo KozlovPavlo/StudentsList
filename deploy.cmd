@@ -1,5 +1,5 @@
 @echo off
-rem You should set next parameters as environment variables: USERNAME, PASSWORD
+rem You should set next parameters as environment variables: USERNAME, PASSWORD as
 
 set SERVER=localhost
 set SITE_NAME=Students
