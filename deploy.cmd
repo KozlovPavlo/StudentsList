@@ -29,7 +29,7 @@ IF "%SITE_NAME%"=="" (
 
 
 set _MsDeployAdditionalFlags=%_MsDeployAdditionalFlags% -setParam:'IIS Web Application Name'='%SITE_NAME%' -setParam:'MyTestParam'='555-555' -verbose -allowUntrusted
-call "%~dp0StudentsList\obj\Debug\Package\StudentsList.deploy.cmd" /Y /U:%USERNAME% /P:%PASSWORD% /M:%SERVER%
+call "http://localhost:8081/artifactory/StudentsList/StudentsList.deploy.cmd" /Y /U:%USERNAME% /P:%PASSWORD% /M:%SERVER%
 IF %ERRORLEVEL% NEQ 0 exit /b %ERRORLEVEL%
 
 Echo    ***** Deploy successful ***** 
